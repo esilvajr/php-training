@@ -1,4 +1,6 @@
-# PHP Treinamento (Hello PHP / The Right Way)
+Hello PHP / The Right Way
+
+Esses scripts foram utilizados academicamente em alguns treinamentos e mini-cursos.
 
 ### Composer
 
